@@ -9,37 +9,50 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="{{ base_path }}/files/Yan Wen - CV.pdf" target="_blank" class="btn btn--primary btn--large">Download CV</a>
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, City University of Hong Kong, 2026 ~ 2030 (incoming)
+* B.S. in Electronic Engineering, Fudan University, 2021 ~ 2026 (expected)
+  * Exchanged Student, Computer Science, University of Birmingham, 2025
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Dec. 2025 - Present: Research Student Intern
+  * SID-Lab, City University of Hong Kong (Remote)
+  * Duties includes: Research on Multi-Agent Application in DeFi
+  * Supervisor: [Prof.Chenyuan Wu](https://chenyuanwu.com)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan. 2025 - Jun. 2025: Exchanged Student
+  * University of Birmingham
+  * Duties included: Multi-Agent Research
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan. 2025 - May. 2025: Undergraduate Research Assistant
+  * Fudan University
+  * Duties included: Efficient AI (Model Quantization, Distillation)
+  * Supervisor: [Prof.Tao Chen](http://www.it.fudan.edu.cn/En/Data/View/3012)
+
+* Jan. 2025 - May. 2025: Undergraduate Research Assistant
+  * Fudan University
+  * Duties included: AI for Communication
+  * Supervisor: [Prof.Xiaolin Zhou](http://www.it.fudan.edu.cn/En/Data/View/2004)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Deep Learning
+  * Python
+  * PyTorch
+  * vLLM
+* Blockchain Development
+  * Rust
+  * Reth
+  * Golang
+  * Solidity
+* Languages
+  * Mandarin (Native)
+  * Shanghainese (Native)
+  * English (Fluent)
 
 Publications
 ======
