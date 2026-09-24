@@ -14,7 +14,7 @@ I am currently working on Blockchain MEV and Agentic AI.
 
 ---
 ## Education
-- **Currently** PhD Candidate: CS, [City University of Hong Kong](https://yan-wen-richard.github.io/edit/master/_pages/about.md), Hong Kong, China, 2026 - Present
+- **Currently** PhD Candidate: CS, City University of Hong Kong, Hong Kong, China, 2026 - Present
 - Bachelor: EE, Fudan University, Shanghai, China, 2021 - 2026
 - Exchange Student: University of Birmingham, Birmingham, the UK, 2025
 
